@@ -1,9 +1,9 @@
-👋 Hi there, I’m August
+## 👋 Hi there, I’m August
 
 Welcome to my corner of the internet — where code meets creativity! 🚀
 I’m a passionate developer who loves building, learning, and exploring all things tech (and beyond).
 
-🧠 Skills
+## 🧠 Skills
 
 💻 Frontend: React, HTML, CSS, JavaScript, Tailwind
 
@@ -17,7 +17,7 @@ I’m a passionate developer who loves building, learning, and exploring all thi
 
 🧪 Testing: Jest, Cypress
 
-🎨 Hobbies
+## 🎨 Hobbies
 
 When I’m not coding, you’ll probably find me:
 
@@ -31,7 +31,7 @@ When I’m not coding, you’ll probably find me:
 
 🌍 Exploring new tech, ideas, and music genres
 
-🌱 Currently
+## 🌱 Currently
 
 🔭 Working on: An open-source project that simplifies developer workflows
 
@@ -43,7 +43,7 @@ When I’m not coding, you’ll probably find me:
 
 🧰 Programming Languages & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,docker,git,github,vscode" /> </p>
-📫 Contact
+## 📫 Contact
 
 Let’s connect and create something awesome together!
 
