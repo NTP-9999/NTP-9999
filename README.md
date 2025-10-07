@@ -36,18 +36,16 @@ When I’m not coding, you’ll probably find me:
 🤝 Looking to collaborate on: Fun, impactful, and community-driven projects
 
 🧰 Programming Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,blender,mongo,nodejs,python,html,css,tailwind,docker,git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,blender,mongo,python,figma,unity,xcode,discord,git,github,vscode" /> </p>
 
 ## 📫 Contact
 
 Let’s connect and create something awesome together!
 
-🌐 Portfolio: your-portfolio.com
-
 💼 LinkedIn: linkedin.com/in/yourname
 
-🐦 Twitter (X): @yourhandle
+🐦 Twitter (X): [Policon9](https://x.com/Policon9)
 
-📧 Email: youremail@example.com
+📧 Email: japankyu@gmail.com
 
 ⭐ “Code is like humor — when you have to explain it, it’s bad.”
