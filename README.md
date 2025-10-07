@@ -36,7 +36,7 @@ When I’m not coding, you’ll probably find me:
 🤝 Looking to collaborate on: Fun, impactful, and community-driven projects
 
 🧰 Programming Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,blender,mongo,python,figma,unity,xcode,discord,git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,blender,mongo,python,figma,unity,unreal,discord,git,github,vscode" /> </p>
 
 ## 📫 Contact
 
