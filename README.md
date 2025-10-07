@@ -5,17 +5,11 @@ I’m a passionate developer who loves building, learning, and exploring all thi
 
 ## 🧠 Skills
 
-💻 Frontend: React, HTML, CSS, JavaScript, Tailwind
-
-⚙️ Backend: Node.js, Express, Python, Django
-
-🧩 Databases: MongoDB, MySQL, PostgreSQL
-
-🛠️ Tools & Platforms: Git, Docker, VS Code, Figma, Linux
-
-☁️ Cloud: AWS, Firebase
-
-🧪 Testing: Jest, Cypress
+- 🧩 Advanced Programming (OOP)
+- 👑 Team Leadership / Management
+- 🎮 Game Development
+- 🤖 AI & Machine Learning
+- 🎨 UI / UX Design
 
 ## 🎨 Hobbies
 
