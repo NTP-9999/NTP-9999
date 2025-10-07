@@ -40,8 +40,6 @@ When I’m not coding, you’ll probably find me:
 
 ## 📫 Contact
 
-Let’s connect and create something awesome together!
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b0rninmayb_tstillaug/)
 
 [![X (Twitter)](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Policon9)
