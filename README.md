@@ -6,9 +6,13 @@ I’m a passionate developer who loves building, learning, and exploring all thi
 ## 🧠 Skills
 
 - 🧩 Advanced Programming (OOP)
+  
 - 👑 Team Leadership / Management
+  
 - 🎮 Game Development
+  
 - 🤖 AI & Machine Learning
+  
 - 🎨 UI / UX Design
 
 ## 🎨 Hobbies
