@@ -48,6 +48,6 @@ Let’s connect and create something awesome together!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hutaodayoo.2025)
 
-📧 Email: japankyu@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:japankyu@gmail.com)
 
 ⭐ “Code is like humor — when you have to explain it, it’s bad.”
