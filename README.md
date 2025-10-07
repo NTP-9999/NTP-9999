@@ -1,4 +1,4 @@
-👋 Hi there, I’m [August]
+👋 Hi there, I’m August
 
 Welcome to my corner of the internet — where code meets creativity! 🚀
 I’m a passionate developer who loves building, learning, and exploring all things tech (and beyond).
