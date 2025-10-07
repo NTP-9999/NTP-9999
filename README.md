@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m August
 
-Welcome to my corner of the internet — where code meets creativity! 🚀
+Welcome to my corner of the internet where code meets creativity! 🚀
 I’m a passionate developer who loves building, learning, and exploring all things tech (and beyond).
 
 ## 🧠 Skills
@@ -52,4 +52,4 @@ When I’m not coding, you’ll probably find me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:japankyu@gmail.com)
 
-⭐ “Code is like humor — when you have to explain it, it’s bad.”
+⭐ “Code is like humor when you have to explain it, it’s bad.”
