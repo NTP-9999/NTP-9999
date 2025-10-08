@@ -52,4 +52,4 @@ When I’m not coding, you’ll probably find me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:japankyu@gmail.com)
 
-⭐ “Code is like girlfreind when you have to explain it, it’s useless.”
+⭐ “Code is like girlfriend when you have to explain it, it’s useless.”
