@@ -31,9 +31,9 @@ When I’m not coding, you’ll probably find me:
 
 ## 🌱 Currently
 
-🔭 Working on: An open-source project that simplifies developer workflows
+🔭 Working on: RPG Adventure Production Game
 
-📚 Learning: TypeScript + Next.js
+📚 Learning: Unreal Engine, C++
 
 🧩 Exploring: AI-powered tools & automation
 
